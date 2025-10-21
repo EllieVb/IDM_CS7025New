@@ -1,6 +1,6 @@
-// I could've straight away written the url, but instead of a static link I separated base url and query in form of template literal* below:
+//  creating url according to https://openweathermap.org/current . instead of a static link I separated base url and query in form of template literal* below:
 const BASE_URL = "https://api.openweathermap.org/data/2.5";
-const API_KEY = "30eece8ecf7a51d1adb28082f74ac92e";
+const API_KEY = "101381f7644564d2e0ec5c20f999822f";
 
 // defining html tags and elements for accessability in JS:
 const searchInput = document.querySelector("input");
@@ -34,6 +34,7 @@ function searchHandler() {
   const cityName = searchInput.value;
   // calling the function:
   getWeather(cityName);
+  console.log("processing data successfully!");
 }
 
 // adding a event listener to link the html button tag to JS functions:
