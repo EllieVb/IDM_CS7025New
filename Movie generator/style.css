@@ -1,0 +1,32 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: navy;
+}
+
+#watchList {
+  padding-top: 3em 0 3em;
+  justify-content: center;
+  text-align: center;
+}
+#list {
+  list-style: none;
+  align-content: center;
+}
+
+#generate {
+  padding-bottom: 10em;
+  justify-content: center;
+  text-align: center;
+  background-color: antiquewhite;
+  width: 500px;
+  height: 200px;
+  border-radius: 4em;
+}
+
+button {
+  border-radius: 1em;
+  padding: 6px 17px 6px;
+}

@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+div {
+  padding: 5%;
+}
+#search {
+  justify-content: center;
+}
+#weather {
+  padding-bottom: 10em;
+  text-align: center;
+  background-color: antiquewhite;
+  width: 500px;
+  height: 200px;
+  border-radius: 4em;
+}
+input {
+  border-radius: 1em;
+  padding: 6px 17px 6px;
+}
+button {
+  border-radius: 1em;
+  padding: 6px 17px 6px;
+}
