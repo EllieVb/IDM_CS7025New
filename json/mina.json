@@ -1,0 +1,49 @@
+{
+  "mina-carousel": [
+    {
+      "src": "./img/Mina/0.jpg",
+      "title": "Mina's Diary",
+      "desc": "This collection is inspired by Bram Stoker's Dracula."
+    },
+    {
+      "src": "./img/Mina/1.jpg",
+      "title": "Full Shots",
+      "desc": "The purpose of full shots is to demonstrate the outfit design and intricacies."
+    },
+    {
+      "src": "./img/Mina/2.jpg",
+      "title": "Full Shots",
+      "desc": "The purpose of full shots is to demonstrate the outfit design and intricacies."
+    },
+    {
+      "src": "./img/Mina/3.jpg",
+      "title": "Full Shots",
+      "desc": "The purpose of full shots is to demonstrate the outfit design and intricacies."
+    },
+    {
+      "src": "./img/Mina/4.jpg",
+      "title": "Portrait Shots",
+      "desc": "These shots capture the close up look of the character"
+    },
+    {
+      "src": "./img/Mina/5.jpg",
+      "title": "Full Shots",
+      "desc": "The purpose of full shots is to demonstrate the outfit design and intricacies."
+    },
+    {
+      "src": "./img/Mina/6.jpg",
+      "title": "Aesthetic Shots",
+      "desc": "The aesthetic details are captured in thses shots"
+    },
+    {
+      "src": "./img/Mina/7.jpg",
+      "title": "Portrait Shots",
+      "desc": "These shots capture the close up look of the character"
+    },
+    {
+      "src": "./img/Mina/8.jpg",
+      "title": "Aesthetic Shots",
+      "desc": "The aesthetic details are captured in thses shots"
+    }
+  ]
+}
